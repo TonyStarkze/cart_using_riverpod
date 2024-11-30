@@ -3,7 +3,13 @@
 =======
 # riverpod_files
 
-A new Flutter project.
+## Screenshots
+
+<img src="riverpod_cart/home.jpg" alt="Home" width="300">
+  Home
+
+<img src="riverpod_cart/items_cart.jpg" alt="Cart" width="300">
+  Items Inside Cart
 
 ## Getting Started
 
